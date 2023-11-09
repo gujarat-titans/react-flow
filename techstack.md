@@ -42,8 +42,8 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gujarat-titans/react-flow](https://github.com/gujarat-titans/react-flow)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|36<br/>Tools used|68<br/>Contributors|11/08/23 <br/>Report generated|05/17/23<br/>Last commit date|
-|------|------|------|------|
+|36<br/>Tools used|11/09/23 <br/>Report generated|
+|------|------|
 </div>
 
 ## <img src='https://img.stackshare.io/languages.svg'/> Languages (3)
@@ -193,27 +193,27 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v15.0.1|N/A|N/A |MIT|N/A|
-|[@types/d3](https://www.npmjs.com/@types/d3)|v7.4.0|N/A|N/A |MIT|N/A|
-|[@types/node](https://www.npmjs.com/@types/node)|v18.7.16|N/A|N/A |MIT|N/A|
-|[@types/react](https://www.npmjs.com/@types/react)|v18.0.17|N/A|N/A |MIT|N/A|
-|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.0.6|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|N/A|N/A|N/A |MIT|N/A|
-|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|N/A|N/A|N/A |BSD-2-Clause|N/A|
-|[concurrently](https://www.npmjs.com/concurrently)|v7.6.0|N/A|N/A |MIT|N/A|
-|[d3-selection](https://www.npmjs.com/d3-selection)|v3.0.0|N/A|N/A |ISC|N/A|
-|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|N/A|N/A |MIT|N/A|
-|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|N/A|N/A |MIT|N/A|
-|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|N/A|N/A|N/A |MIT|N/A|
-|[localforage](https://www.npmjs.com/localforage)|v1.10.0|N/A|N/A |Apache-2.0|N/A|
-|[postcss](https://www.npmjs.com/postcss)|v8.4.21|N/A|N/A |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
-|[postcss-cli](https://www.npmjs.com/postcss-cli)|v10.1.0|N/A|N/A |MIT|N/A|
-|[postcss-import](https://www.npmjs.com/postcss-import)|v15.1.0|N/A|N/A |MIT|N/A|
-|[postcss-nested](https://www.npmjs.com/postcss-nested)|v6.0.0|N/A|N/A |MIT|N/A|
-|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|N/A|N/A |MIT|N/A|
-|[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.3.0|N/A|N/A |MIT|N/A|
-|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|N/A|N/A |ISC|N/A|
-|[rollup-plugin-peer-deps-external](https://www.npmjs.com/rollup-plugin-peer-deps-external)|v2.2.4|N/A|N/A |MIT|N/A|
+|[@rollup/plugin-node-resolve](https://www.npmjs.com/@rollup/plugin-node-resolve)|v15.0.1|01/11/23|moklick |MIT|N/A|
+|[@types/d3](https://www.npmjs.com/@types/d3)|v7.4.0|02/01/23|moklick |MIT|N/A|
+|[@types/node](https://www.npmjs.com/@types/node)|v18.7.16|02/01/23|moklick |MIT|N/A|
+|[@types/react](https://www.npmjs.com/@types/react)|v18.0.17|03/20/23|moklick |MIT|N/A|
+|[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.0.6|03/20/23|moklick |MIT|N/A|
+|[@typescript-eslint/eslint-plugin](https://www.npmjs.com/@typescript-eslint/eslint-plugin)|N/A|01/11/23|moklick |MIT|N/A|
+|[@typescript-eslint/parser](https://www.npmjs.com/@typescript-eslint/parser)|N/A|01/11/23|moklick |BSD-2-Clause|N/A|
+|[concurrently](https://www.npmjs.com/concurrently)|v7.6.0|01/11/23|moklick |MIT|N/A|
+|[d3-selection](https://www.npmjs.com/d3-selection)|v3.0.0|09/26/22|moklick |ISC|N/A|
+|[eslint-config-prettier](https://www.npmjs.com/eslint-config-prettier)|v8.5.0|09/12/22|moklick |MIT|N/A|
+|[eslint-plugin-prettier](https://www.npmjs.com/eslint-plugin-prettier)|v4.2.1|09/12/22|moklick |MIT|N/A|
+|[eslint-plugin-react](https://www.npmjs.com/eslint-plugin-react)|N/A|09/12/22|moklick |MIT|N/A|
+|[localforage](https://www.npmjs.com/localforage)|v1.10.0|09/14/22|moklick |Apache-2.0|N/A|
+|[postcss](https://www.npmjs.com/postcss)|v8.4.21|01/11/23|moklick |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)|
+|[postcss-cli](https://www.npmjs.com/postcss-cli)|v10.1.0|01/11/23|moklick |MIT|N/A|
+|[postcss-import](https://www.npmjs.com/postcss-import)|v15.1.0|01/11/23|moklick |MIT|N/A|
+|[postcss-nested](https://www.npmjs.com/postcss-nested)|v6.0.0|01/11/23|moklick |MIT|N/A|
+|[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|03/20/23|moklick |MIT|N/A|
+|[react-router-dom](https://www.npmjs.com/react-router-dom)|v6.3.0|03/20/23|moklick |MIT|N/A|
+|[rimraf](https://www.npmjs.com/rimraf)|v3.0.2|01/11/23|moklick |ISC|N/A|
+|[rollup-plugin-peer-deps-external](https://www.npmjs.com/rollup-plugin-peer-deps-external)|v2.2.4|01/11/23|moklick |MIT|N/A|
 
 <br/>
 <div align='center'>
