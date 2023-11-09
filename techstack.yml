@@ -1,7 +1,7 @@
 repo_name: gujarat-titans/react-flow
-report_id: 452d766ec288928dd7b64889883d4ad1
+report_id: dddf9da3e8eedc44234fd4c5a34c187b
 repo_type: Public
-timestamp: '2023-11-08T08:44:33+00:00'
+timestamp: '2023-11-09T11:23:29+00:00'
 requested_by: moklick
 provider: github
 branch: main
@@ -45,6 +45,8 @@ tools:
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-08-08 11:34:00.000000000 Z
 - name: Node.js
   description: A platform built on Chrome's JavaScript runtime for easily building
     fast, scalable network applications
@@ -55,6 +57,8 @@ tools:
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
   detection_source: packages/reactflow/package.json
+  last_updated_by: Christopher Möller
+  last_updated_on: 2022-07-21 11:25:04.000000000 Z
 - name: React
   description: A JavaScript library for building user interfaces
   website_url: https://reactjs.org/
@@ -67,6 +71,8 @@ tools:
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
   detection_source_url: examples/vite-app/package.json
   detection_source: packages/reactflow/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
 - name: React Router
   description: A complete routing solution for React.js
   website_url: https://github.com/rackt/react-router
@@ -79,6 +85,8 @@ tools:
   image_url: https://img.stackshare.io/service/3350/8261421.png
   detection_source_url: examples/vite-app/package.json
   detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
 - name: Cypress
   description: When testing is easy, developers build better things faster and with
     confidence.
@@ -92,6 +100,8 @@ tools:
   image_url: https://img.stackshare.io/service/9231/default_66c5c1a197dcd0232e41e4ab6299d119b4e165b3.png
   detection_source_url: examples/vite-app/package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-26 10:48:44.000000000 Z
 - name: ESLint
   description: The fully pluggable JavaScript code quality tool
   website_url: http://eslint.org/
@@ -102,6 +112,8 @@ tools:
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
   detection_source: tooling/eslint-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2019-07-15 14:48:04.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -122,6 +134,8 @@ tools:
   sub_category: Microservices Tools
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source: pnpm-lock.yaml
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
 - name: Prettier
   description: 'Prettier is an opinionated code formatter. '
   website_url: https://prettier.io/
@@ -134,6 +148,8 @@ tools:
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-08-08 11:34:00.000000000 Z
 - name: npm
   description: The package manager for JavaScript.
   website_url: https://www.npmjs.com/
@@ -143,6 +159,8 @@ tools:
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
   detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
 - name: rollup
   description: The next-generation JavaScript module bundler
   website_url: http://rollupjs.org/
@@ -152,6 +170,8 @@ tools:
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg
   detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 13:30:39.000000000 Z
 - name: Bitdeli
   description: Build Your Own Analytics
   website_url: https://bitdeli.com
@@ -161,6 +181,8 @@ tools:
   sub_category: Custom Analytics
   image_url: https://img.stackshare.io/service/4/81d15a06ca33a8d04a5130889a50a908.png
   detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
 - name: "@rollup/plugin-node-resolve"
   description: Locate and bundle third-party dependencies in node_modules
   package_url: https://www.npmjs.com/@rollup/plugin-node-resolve
@@ -173,6 +195,8 @@ tools:
   image_url: https://img.stackshare.io/package/17836/default_abcc2eea82e62d338a749f334647866df76198b8.png
   detection_source_url: tooling/rollup-config/package.json
   detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 13:30:39.000000000 Z
 - name: "@types/d3"
   description: TypeScript definitions for d3JS
   package_url: https://www.npmjs.com/@types/d3
@@ -185,6 +209,8 @@ tools:
   image_url: https://img.stackshare.io/package/17747/default_b527ab15473225ca7c2e9b197c9726e92ac97de8.png
   detection_source_url: packages/core/package.json
   detection_source: packages/core/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-02-01 11:23:45.000000000 Z
 - name: "@types/node"
   description: TypeScript definitions for Node.js
   package_url: https://www.npmjs.com/@types/node
@@ -197,6 +223,8 @@ tools:
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
   detection_source_url: packages/background/package.json
   detection_source: packages/reactflow/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-02-01 11:23:45.000000000 Z
 - name: "@types/react"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react
@@ -209,6 +237,8 @@ tools:
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
   detection_source_url: examples/vite-app/package.json
   detection_source: packages/reactflow/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
 - name: "@types/react-dom"
   description: TypeScript definitions for React
   package_url: https://www.npmjs.com/@types/react-dom
@@ -221,6 +251,8 @@ tools:
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
   detection_source_url: examples/vite-app/package.json
   detection_source: packages/node-toolbar/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
 - name: "@typescript-eslint/eslint-plugin"
   description: TypeScript plugin for ESLint
   package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
@@ -231,6 +263,8 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: "@typescript-eslint/parser"
   description: An ESLint custom parser which leverages TypeScript ESTree
   package_url: https://www.npmjs.com/@typescript-eslint/parser
@@ -241,6 +275,8 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: concurrently
   description: Run commands concurrently
   package_url: https://www.npmjs.com/concurrently
@@ -253,6 +289,8 @@ tools:
   image_url: https://img.stackshare.io/package/16041/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: d3-selection
   description: 'Data-driven DOM manipulation: select elements and join them to data'
   package_url: https://www.npmjs.com/d3-selection
@@ -265,6 +303,8 @@ tools:
   image_url: https://img.stackshare.io/package/17187/default_fbe883dfc6d978f82179fa11bdf634af1b6751fa.png
   detection_source_url: packages/core/package.json
   detection_source: packages/node-resizer/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-26 10:48:44.000000000 Z
 - name: eslint-config-prettier
   description: Turns off all rules that are unnecessary or might conflict with Prettier
   package_url: https://www.npmjs.com/eslint-config-prettier
@@ -277,6 +317,8 @@ tools:
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
   detection_source_url: package.json
   detection_source: tooling/eslint-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
 - name: eslint-plugin-prettier
   description: Runs prettier as an eslint rule
   package_url: https://www.npmjs.com/eslint-plugin-prettier
@@ -289,6 +331,8 @@ tools:
   image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
 - name: eslint-plugin-react
   description: React specific linting rules for ESLint
   package_url: https://www.npmjs.com/eslint-plugin-react
@@ -299,6 +343,8 @@ tools:
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source: tooling/eslint-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-12 15:24:49.000000000 Z
 - name: localforage
   description: Offline storage, improved
   package_url: https://www.npmjs.com/localforage
@@ -311,6 +357,8 @@ tools:
   image_url: https://img.stackshare.io/package/17229/default_48f040bdc5f6c639c70bf350f8b8158ede27286c.png
   detection_source_url: examples/vite-app/package.json
   detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2022-09-14 15:39:49.000000000 Z
 - name: postcss
   description: Tool for transforming styles with JS plugins
   package_url: https://www.npmjs.com/postcss
@@ -323,6 +371,8 @@ tools:
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
   vulnerabilities:
   - name: PostCSS line return parsing error
     cve_id: CVE-2023-44270
@@ -342,6 +392,8 @@ tools:
   image_url: https://img.stackshare.io/package/16326/default_97104dc50154593d2dde1d791400955934c9c715.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: postcss-import
   description: PostCSS plugin to import CSS files
   package_url: https://www.npmjs.com/postcss-import
@@ -354,6 +406,8 @@ tools:
   image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: postcss-nested
   description: PostCSS plugin to unwrap nested rules like how Sass does it
   package_url: https://www.npmjs.com/postcss-nested
@@ -366,6 +420,8 @@ tools:
   image_url: https://img.stackshare.io/package/16575/default_9d292a50abc76f1f74581b311ad930a616b1785c.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: react-dom
   description: React package for working with the DOM
   package_url: https://www.npmjs.com/react-dom
@@ -378,6 +434,8 @@ tools:
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
   detection_source_url: examples/vite-app/package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
 - name: react-router-dom
   description: DOM bindings for React Router
   package_url: https://www.npmjs.com/react-router-dom
@@ -390,6 +448,8 @@ tools:
   image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
   detection_source_url: examples/vite-app/package.json
   detection_source: examples/vite-app/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-03-20 16:33:15.000000000 Z
 - name: rimraf
   description: A deep deletion module for node
   package_url: https://www.npmjs.com/rimraf
@@ -402,6 +462,8 @@ tools:
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
   detection_source_url: package.json
   detection_source: package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 12:47:13.000000000 Z
 - name: rollup-plugin-peer-deps-external
   description: Rollup plugin to automatically add a library's peerDependencies to
     its bundle's external config
@@ -415,3 +477,5 @@ tools:
   image_url: https://img.stackshare.io/package/16508/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
   detection_source_url: tooling/rollup-config/package.json
   detection_source: tooling/rollup-config/package.json
+  last_updated_by: moklick
+  last_updated_on: 2023-01-11 13:30:39.000000000 Z
